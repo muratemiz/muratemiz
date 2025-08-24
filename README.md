@@ -14,3 +14,4 @@ Türkiye'de Management İnformation Systems Öğrencisi
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![n8n](https://img.shields.io/badge/-n8n-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
