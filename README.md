@@ -1,40 +1,43 @@
-# Merhaba, ben Murat Temiz 👋
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=3776AB&height=250&section=header&text=Murat%20Temiz&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Junior%20Software%20Developer%20|%20MIS%20Student&descSize=20&descAlignY=55" alt="Header" />
 
-<p align="left">
-<a href="https://www.linkedin.com/in/temizmurat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="temizmurat" height="30" width="40" /></a>
-<a href="https://www.instagram.com/2.muratt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="2.muratt" height="30" width="40" /></a>
-</p>
+<br>
 
-### 👨‍💻 Hakkımda
-**İstanbul Topkapı Üniversitesi**'nde **Yönetim Bilişim Sistemleri (MIS)** öğrencisiyim. Yazılım geliştirme, veri yönetimi ve iş süreçlerinin dijitalleşmesi üzerine odaklanıyorum. Modern teknolojileri kullanarak hem mobil hem de web dünyasında projeler üretiyorum.
+<h1>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Montserrat&weight=700&size=32&pause=3000&center=true&vCenter=true&width=700&height=70&duration=5000&lines=Merhaba,+ben+Murat!+Nasılsın?+👋;Hi,+I+am+Murat!+How+are+you?+👋" alt="Typing SVG" />
+</h1>
+</div>
+<br>
 
-- 🔭 Şu anda **DeHadi** (kelime ezberleme) ve otomobil mekanikleri üzerine mobil uygulamalar geliştiriyorum.
-- 🌱 **Flutter & Dart** ekosisteminde derinleşmeye devam ediyorum.
-- ⚡ **Siber Güvenlik** ve **Ağ Haritalama** konularına özel bir ilgim var.
-- 💬 Benimle yazılım, MIS veya teknoloji hakkında konuşabilirsiniz.
+## 🔗 **Connect with Me**
+<div align="center">
+<a href="https://www.linkedin.com/in/temizmurat" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin,instagram,twitter" /></a>
+<a href="mailto:info@murattemiz.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+<a href="https://murattemiz.com" target="_blank"><img src="https://skillicons.dev/icons?i=workers" /></a>
+</div>
+
+<br>
+
+## 🚀 **About Me**
+Web, mobil ve yapay zeka odaklı projelerde uçtan uca çözümler üreten bir yazılım geliştiriciyim. AI Agents ve MCP gibi modern teknolojileri kullanarak gerçek dünya problemlerine ölçeklenebilir ve verimli yanıtlar tasarlıyorum. Hızlı adapte olan ve sonuç odaklı yapımla, karmaşık süreçleri kullanıcı dostu, sade sistemlere dönüştürmeyi hedefliyorum.
+
+<br>
+
+## 🛠 **Tech Stack & Tools**
+<div align="center">
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=python,dart,flutter,cpp,c,js,html,css,bash,anaconda,pycharm,vscode,androidstudio,firebase,supabase,docker,git,github,gitlab,figma,apple,discord" />
+</a>
+</div>
+<br>
+
+## 🐍 **Contribution Activity**
+<div align="center">
+  <img src="https://raw.githubusercontent.com/maxisandoval37/maxisandoval37/output/github-contribution-grid-snake.svg" alt="Snake Game" width="100%" />
+</div>
+<br>
 
 ---
-
-### 🛠️ Teknolojiler ve Araçlar
-
-| Alan | Araçlar |
-| :--- | :--- |
-| **Diller** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) |
-| **Mobil & Web** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
-| **Otomasyon** | ![n8n](https://img.shields.io/badge/n8n-FF6C37?style=for-the-badge&logo=n8n&logoColor=white) |
-
----
-
-### 📈 GitHub İstatistiklerim
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=murattemiz&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murattemiz&layout=compact&theme=radical" />
-</p>
-
----
-
-### 📫 İletişim
-- **E-posta:** [muratemiz@outlook.com.tr](mailto:muratemiz@outlook.com.tr)
-- **Web:** [murattemiz.com](https://murattemiz.com)
-
-*"Kod yazmak sadece bir iş değil, bir problem çözme sanatıdır."*
+<div align="center">
+  <i>"Geleceği tahmin etmenin en iyi yolu, onu inşa etmektir."</i>
+</div>
